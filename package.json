@@ -1,0 +1,20 @@
+{
+  "name": "real-time-analytics",
+  "version": "1.0.0",
+  "description": "Real Time Page Analytics",
+  "main": "index.js",
+  "keywords": [],
+  "author": "David Moss",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmoss/real-time-analytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmoss/real-time-analytics/issues"
+  },
+}
